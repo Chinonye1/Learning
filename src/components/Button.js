@@ -1,7 +1,7 @@
 function Button() {
   return (
     <a href="https://lavishsalon.ca/">
-    <button className="btn">Lavish Salon</button>
+    <button >Lavish Salon</button>
     </a>
   );
 }
